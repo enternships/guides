@@ -10,8 +10,8 @@ Open a pull request with your recommended updates to contribute.
 We have simplified the original The [git-flow](http://nvie.com/posts/a-successful-git-branching-model/) to be less cumbersome. 
 
 Branches involved:
-- **production** (refeclts what is deployed in production)
-- **staging** (refeclts what is deployed in staging)
+- **production** (reflects what is deployed in production)
+- **staging** (reflects what is deployed in staging)
 - feature_ (prefix for feature branches)
 - bugfix_ (prefix for bugfix branches)
 
